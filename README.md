@@ -100,11 +100,11 @@
 
 
 <!--profile visit count-->
+<!-- Visitors Count -->
 <div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/{alvarooo32}/count.svg)
-  
+  <img align="center" src="https://komarev.com/ghpvc/?username=alvarooo32&color=blueviolet&style=flat-square&label=VISITORS" alt="Visitors Count" />
 </div>
+
 
 
 <!--horizontal divider(gradiant)-->
