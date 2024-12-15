@@ -101,6 +101,7 @@
 <div align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=alvarooo32&color=blueviolet&style=flat-square&label=VISITORS" alt="Visitors Count" />
 </div>
+<br>
 
 <!-- PACMAN  -->
 <div align="center">
