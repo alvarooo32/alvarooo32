@@ -111,6 +111,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [alvaroOO32](https://github.com/alvarooo32)
+Credit: [alvarooo32](https://github.com/alvarooo32)
 
 Last Edited on: 15/12/2024
