@@ -19,7 +19,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **JS, PHP, HTML, CSS, JS**
 
-- 🌱 I’m currently learning **Degree (Web Aplication Developer)**
+- 🌱I’m currently studying for a **degree in Web Application Development**
 
 - 🎯 I enjoy creating new and useful websites. I want to use what I learn in the degree to gain experience and improve my skills.
 
