@@ -10,12 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -34,7 +28,7 @@
 
 - 📫 Feel free to reach me out **alvaro23.ossa@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [illo](http://discordapp.com/users/427108250396131329) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  illo(http://discordapp.com/users/427108250396131329) my username!
 <!--Intro end-->
 
 
