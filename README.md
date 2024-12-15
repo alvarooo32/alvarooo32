@@ -34,7 +34,7 @@
 
 - 📫 Feel free to reach me out **alvaro23.ossa@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [illo](http://discordapp.com/users/427108250396131329) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [illoooo](http://discordapp.com/users/427108250396131329) my username!
 <!--Intro end-->
 
 
