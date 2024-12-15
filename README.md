@@ -13,16 +13,6 @@
   </ul>
 </div>
 
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"></h2></summary>
-  </ul>
-</div>
-
-
 <!--Intro start-->
 - 🔭 I’m currently working on **JS, PHP, HTML, CSS, JS**
 
