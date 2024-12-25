@@ -17,7 +17,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **JS, PHP, HTML, CSS, JS**
+- 🔭 I’m currently working on **JS, PHP, HTML, CSS**
 
 - 🌱 I’m currently studying for a **degree in Web Application Development**
 
