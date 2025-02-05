@@ -73,7 +73,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,linux,mysql,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,linux,mysql,py,vscode,jquery,react,bootstrap" />
   </a>
 </p>
 
