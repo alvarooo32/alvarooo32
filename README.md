@@ -73,7 +73,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,linux,mysql,py,vscode,jquery,react,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,css,github,html,java,js,linux,mysql,py,vscode,jquery,react,bootstrap" />
   </a>
 </p>
 
@@ -114,4 +114,4 @@
 ----------------------------------------------------------------------
 Credit: [alvarooo32](https://github.com/alvarooo32)
 
-Last Edited on: 15/12/2024
+Last Edited on: 05/02/2025
